@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btSalvar"
+        android:icon="@mipmap/icon_save"
+        android:showAsAction="always"
+        android:title="@string/salvar" />
+
+    <item
+        android:id="@+id/btLer"
+        android:icon="@mipmap/icon_read"
+        android:showAsAction="always"
+        android:title="@string/ler" />
+
+</menu>
